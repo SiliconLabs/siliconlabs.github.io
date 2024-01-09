@@ -104,10 +104,10 @@
                         },
                         {
                             "host": "x86_64-pc-linux-gnu",
-                            "url": "https://github.com/SiliconLabs/arduino/releases/download/1.0.0/Commander_linux_x86_64_1v14p5b1276.zip",
-                            "archiveFileName": "Commander_linux_x86_64_1v14p5b1276.zip",
-                            "checksum": "SHA-256:9c81f401ff38d0eb8719389ea570ba3880852d099b6c8b9495c375cc442e0e9b",
-                            "size": "58726426"
+                            "url": "https://github.com/SiliconLabs/arduino/releases/tag/1.0.0/Commander_linux_x86_64_1v14p5b1276.tar.bz",
+                            "archiveFileName": "Commander_linux_x86_64_1v14p5b1276.tar.bz",
+                            "checksum": "SHA-256:8294b29387dd9045e19fe0e16590d4032bb5ee6718419460e2f9623dbec581e6",
+                            "size": "34568050"
                         }
                     ]
                 }
