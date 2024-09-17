@@ -172,7 +172,7 @@
                             "size": "184007579"
                         },
                         {
-                            "host": "x86_64-mingw32",
+                            "host": "i686-mingw32",
                             "url": "https://github.com/SiliconLabs/arduino/releases/download/2.0.0/arm-gnu-toolchain-12.2.rel1-mingw-w64-i686-arm-none-eabi.zst",
                             "archiveFileName": "arm-gnu-toolchain-12.2.rel1-mingw-w64-i686-arm-none-eabi.zst",
                             "checksum": "SHA-256:0a8788cc3cdfcf8a03189dafc27c2936834bbbab3efc021eaf41c739eef4c253",
@@ -199,7 +199,7 @@
                             "size": "49738096"
                         },
                         {
-                            "host": "x86_64-mingw32",
+                            "host": "i686-mingw32",
                             "url": "https://github.com/SiliconLabs/arduino/releases/download/1.0.0/Commander_win32_x64_1v14p5b1276.zip",
                             "archiveFileName": "Commander_win32_x64_1v14p5b1276.zip",
                             "checksum": "SHA-256:157471fe232654ccac21250769cd2e83c19c424495c28dd68614429bc2a87e23",
@@ -226,7 +226,7 @@
                             "size": "50942568"
                         },
                         {
-                            "host": "x86_64-mingw32",
+                            "host": "i686-mingw32",
                             "url": "https://github.com/SiliconLabs/arduino/releases/download/2.0.0/Commander_win32_x64_1v16p4b1564.tar.zst",
                             "archiveFileName": "Commander_win32_x64_1v16p4b1564.tar.zst",
                             "checksum": "SHA-256:8f6272eda45cbc0e2d0a94ccc077def812e5b2bebc05ada02c2797cbe3222fa3",
@@ -253,7 +253,7 @@
                             "size": "2041728"
                         },
                         {
-                            "host": "x86_64-mingw32",
+                            "host": "i686-mingw32",
                             "url": "https://downloads.arduino.cc/tools/openocd-0.12.0-arduino1-static-i686-w64-mingw32.tar.bz2",
                             "archiveFileName": "openocd-0.12.0-arduino1-static-i686-w64-mingw32.tar.bz2",
                             "checksum": "SHA-256:91ef6e8c9abdbcf8c97040b7045a620280716ab542629c2310e44b855475f807",
